@@ -1,0 +1,94 @@
+@media(max-width:600px)
+{
+                       /* intro start */
+    .intro{height: 75px;}
+    .intro  .icons{display: none;}
+    .intro  .corts{display: none;}
+                      /* intro end */
+                      /* navigation start */
+    .part1 .nav{display: none;}
+    .show{display: block; margin-left: 20px;}
+    .navigation .part2{margin-left: 100px;}
+    .show1{display: block;}
+    .navigation .part3{margin-left: 30px;}
+    .innerpart{display: none;}
+    .scoller{flex-wrap: wrap; }
+                         /* navigation end */
+                        /* scoller start */
+    .picture1{width: 100%; height: 500px;}
+    .picture2{width: 100%; height: 300px; margin-top: 20px; margin-left: 20px;}
+    .line1{top: 70%;}
+    .line2{top: 76%;}
+    .line3{top: 88%;}
+    .line4{top: 94%;}
+                    /* scoller end */
+                    /* contentpart1 start */
+    .contentpart1{display: block; height: 800px; width: 335px; margin: auto; margin-top: 150px;}      
+    .section{height: 200px; padding-top: 0;}  
+                   /* contentpart1 end */
+                   /* contentpart2 start */
+    .contentpart2{display: block;}  
+    .contentpart2 .first1part{width: 95%; margin-left: 20px;}     
+    .contentpart2 .second1part{width: 540px; margin-left: 20px; width: 97%; height: auto;}    
+    .second1part .itembox{margin-left: 15px;}   
+    .upper1part .upperhoverpart{top: 175px; opacity: 1;} 
+                  /* contentpart2 end */
+                  /* doteddiv1 start */
+    .doteddiv1{display: block;}            
+    .doteddiv1 .firstpart{width: 96%; margin-left:20px; line-height: 60px; }  
+    .doteddiv1 .secondpart{width: 96%; margin-left:20px; line-height: 100px; margin-top: 20px; text-align: center; }
+               /* doteddiv1 end  */
+               /* content part4 start */
+    .contentpart4maindiv {display: block;}          
+    .contentpart4firstdiv{width: 96%;}
+    .contentpart4firstdiv .part1 .part1inner{width: 420px;}
+    .contentpart4seconddiv{display: none;}
+              /* content part4 end */
+              /* content part5 start */
+    .contentpart5maindiv{display: block;}    
+    .contentpart5maindiv .contentpart5firstdiv{width: 97%;} 
+    .contentpart5firstdiv .div1{height: 200px;} 
+    .div1   .innerdiv11{margin-left: 80px;}
+    /* .contentpart5seconddiv .div5 .s{width: 100%;} */
+    .contentpart5seconddiv .div5{height: 550px;}
+    .contentpart5seconddiv .div5 .raju{width: 100%; height: 510px;}
+    .contentpart5seconddiv .div5 .raju1{display: none;}
+    .contentpart5seconddiv .div5 .subdiv .yagnesh34{height: 300px; width: 90%; }
+    .yagnesh39{width: 400px;}
+    .contentpart5seconddiv .div6{width: 97%; height: 530px; margin-left: 10px ;}
+    .div6 .innerdiv61{top: 70px;}
+    .div6 .innerdiv62{top: 120px;}
+    .div6 .innerdiv63{top: 240px;}
+    .div6 .innerdiv64{top: 380px; width: 350px;}
+    .div6 .innerdiv65{top: 470px;}
+          /*content part5 end */
+          /* big image start */
+    .bigimagepart{height: 400px; }     
+    .bigimagepart .yagnesh61{top: 80px ; left: 37%;} 
+    .bigimagepart .yagnesh62{top:120px ; left: 25%; font-size: 19px ; letter-spacing: 2px} 
+    .bigimagepart .yagnesh63{top: 160px ; left: 2% ; line-height: 25px; text-align: justify;}  
+    br{display: none}
+    .bigimagepart .yagnesh64{top:280px ; left:31% ;} 
+     /* big image end */
+     /* slidder2 start */
+     .imageslider2 .yagnesh81{height: 250px; width: 300px; display: block; height: auto; margin-bottom: 10px;}
+     .imageslider2 .circles{display: none; }
+     /* .imageslider2 .yagnesh81{width: 100%; } */
+     /* .imageslider2 .circles{display: none;} */
+     /* footer1 start */
+     .footer1{display: block; height: auto; padding-left: 10px;}
+     .footer1 .footer1part1{height: 200px;}
+     .yagnesh84{top: 70%;}
+     .yagnesh88{width: 245%;}
+     /* footer1 end */
+     /* footer2 start */
+     .footer2{display: block; height: auto;}
+     .footer2 .footer2part1{width: 100%; height: 300px;}
+     .footer2 .footer2part2{width: 100%; height: 300px;}
+     .footer2 .footer2part3{width: 100%; padding-left: 10px; box-sizing: border-box;}
+     .footer2part4{display: block; margin-top: -50px; }
+     .footer2part4 .footer2part4under2{padding-left: 40px;}
+     .yagnesh95{margin-left: 100px;}
+     .yagnesh97{margin-left: 110px;}
+     /* footer2 end */
+}

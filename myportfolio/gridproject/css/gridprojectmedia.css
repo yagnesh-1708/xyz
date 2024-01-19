@@ -1,0 +1,73 @@
+                     /*navbar2 start  */
+ @media(max-width:600px)
+ {
+    .navbar2{display: none;}
+    .yagnesh12{display: none;}
+    .yagnesh13{display: block; margin-left: 20px;}
+    .class9{display: none;}
+    .yagnesh14{display: block; margin-left: 100px;}
+    .class10{width: 150px;}
+                    /*navbar2 end  */
+
+
+                    /* content1 start */
+
+
+    .class26{height: 500px; width: 95%; height: 500px;}
+    .xywz{top: 80%;}
+    .class27{font-size: 40px;left: 10%; width: 350px; height: 100px; top: 10%;}
+    .class28{font-size: 13px;  left: 0%; width: 450px; height: 70px; top: 25%;}
+    .class29{left: 5%; top: 35%;}
+    .class34{top: 0; left: 0; width: 95%;}
+    .class35{grid-template-columns: 1fr; height: auto;}
+    .class36{ height: 500px;}
+    .class37{height: 500px; overflow: hidden;}
+     
+    
+                 /* content1 end  */
+
+                 /* content2 start */
+    .class47{height: auto;}
+    .class51{display: block; height: auto;}
+    .class52{width: 90%; margin-top: 20px; margin-left: 25px; }
+               /*content2 end  */
+
+
+     .class55{grid-template-columns: 1fr; height: auto;} 
+     .class57{display: none;}       
+     .class56{height: 550px;}  
+     .class58{height: 550px;} 
+     .class61{margin-top: 20px;}
+     .class62{margin-top: 30px;}
+     .class66{margin-top: 20px;}
+     .class67{margin-top: 30px;}
+     .xyz{margin-top: -30px;}
+     .xywz{margin-top: 0;}
+     .class72,.class74,.class76{margin-top: 20px;}
+     /* .class71,.class73,.class75{margin-top: 20px;} */
+
+
+     .class81{width: 100%;}
+     .class84{margin-left: 17%;}
+     .class85{grid-template-columns: 1fr 1fr ; height: auto;}
+     .class86{margin: 10px;}
+     .class95{grid-template-columns: 1fr;}
+     .class102{display: none;}
+     .class103{display: none;}
+     .class104{height: 950px;}
+     .class108{display: block; height: auto;margin-left: 80px; }
+     .class109{top: 100%; left: 0; margin-top: 20px; }
+     .class113{grid-template-columns: 1fr;left: 0%; width: 100%;}
+     .class119{ margin-top: 30%; }
+     .class118{background-size: cover;}
+     .class120{margin-top:1500px ;  height: auto;}
+     .class121{margin-top: 10%; margin-left: 36%;}
+     .class122{margin-top: 13%; margin-left: 15%; font-size: 33px;}
+     .class123{margin-top: -20%; margin-left: 39%;}
+     .class124{top: 0%; left: 0%; font-size: 20px; font-weight: 300;width: 70%; margin-top: 100px;}
+     .class126{margin-left: 33%;}
+     .class127{grid-template-columns: 1fr 1fr; padding-left: 0px; padding-right: 0px; box-sizing: border-box; height: auto; }
+     .class128{margin-top: 25px; box-sizing: border-box; height: 200px; width: 200px; margin-left: 20px;}
+     .class134{margin-top: 50px; padding: 0;}
+     .class131{height: auto;}
+ }                  
